@@ -11,7 +11,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 ***
 
 从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**，几乎涵盖了Java后端必备的知识点。该开源仓库的文章都是我**个人原创**，公众号发过的技术文章（干货）也会有相关的目录整理，很多知识点我还在不停的总结和完善。点击关注<a href="#公众号">【公众号】</a>
-及时获取最新文章
+及时获取最新文章 好好学习天天向上
 
 :sparkling_heart:我希望这个开源仓库：
 
@@ -531,34 +531,4 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [三歪的读者，有点东西](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488343&idx=1&sn=3a0acf8811502d4ed4f5cefa42c0ebd4&chksm=ebd75256dca0db4019e26697f13a6418fbe01fbcc4bd99fe59e9bf4375f8a3ffb81cf6a86983&token=1936697047&lang=zh_CN#rd)
 - [大公司与小公司？校招？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488722&idx=1&sn=d56b47b71182b8739a4044e119fa7663&chksm=ebd755d3dca0dcc52b67bec51c85e55cb35ea2ff59e583dcd03df13d80419c3986fe6040a87e&token=1936697047&lang=zh_CN#rd)
 - [一个优秀的程序员应该具备什么能力？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247489875&idx=1&sn=07a775b11ce95db4ccf7a7c183c48115&chksm=ebd75852dca0d14447fdff2c4d969ca8ce38f1fcfccd11dc2d2fd57dda5eb0643d1f4bbf3524&token=1936697047&lang=zh_CN#rd)
-- [南京之旅](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490299&idx=1&sn=b2cb86367a3ff77f7021460cb561c00a&chksm=ebd75bfadca0d2ecd00c1700ef26dc4acc719b422b110ae9cef2f8b8f1948efa1a50b63af222&token=1936697047&lang=zh_CN#rd)
-- [西安之旅](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490674&idx=1&sn=988ad22b0845f15b51e24271eac0ea21&chksm=ebd75d73dca0d4657c54ae063d9d97f747d0968f876bfb2276c0ac8150fb125b49e38426c108&token=1936697047&lang=zh_CN#rd)
-
-
-  
-
-#### :sparkling_heart:<a name="公众号">加入公众号</a> ###
-
-如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号Java3y。
-
-
-- :bell:**获取Java精美脑图**
-- :clipboard:**获取Java学习路线**
-- :sound:**获取开发常用工具**
-- :christmas_tree:**获取精美原创PDF**
-- :ramen:**加入微信交流群**
-
-
-在公众号下回复「**888**」即可获取！！
-
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
-
-
-
-如果你觉得有帮助，想要打赏作者，那么可以通过这个收款码打赏我，**金额不重要，心意最重要**。主要是我可以通过这个打赏情况来看我的心血有没有价值，嘻嘻。
-
-<img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuu0j4wwqj30u014qako.jpg' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuuckh3s4j30rc0yo7jr.jpg' width=200px height=200px />
-
-***
-### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ)  有服务器购买需求的可以点击链接看看。
-
+- [南京之旅](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490299&idx=1&sn=b2cb86367a3ff77f7021460cb561c00a&chksm=ebd75bfadca0d2ecd00c17
